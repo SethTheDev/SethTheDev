@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Altura Client, Roam Client and Aura
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Lunar Client
