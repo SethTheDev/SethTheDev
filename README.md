@@ -1,8 +1,14 @@
 ### Hi there 👋
+## I'm Seth, a developer with 3+ years of experience with Java, Python and Javascript.
 
-- 🔭 I’m currently working on Roam, Iosif and Flop
-- 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with C++
-- 💬 Ask me about the programming languages I know
-- 📫 How to reach me: spccmbseth@gmail.com
-- ⚡ Fun fact: I like potatoes
+# Languages I know
+- Java (3 years) 
+- Python (>3 years) 
+- Javascript (>2 years)
+- C# (2 years)
+- Rust (<1 year)
+
+# Projects I'm working on
+- Aetherium Client
+- Trypick
+- Grahash Cracker
