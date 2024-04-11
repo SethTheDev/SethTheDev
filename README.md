@@ -8,7 +8,4 @@
 - C# (2 years)
 - Rust (<1 year)
 
-### Projects I'm working on
-- Aetherium Client
-- Trypick
-- Grahash Cracker
+## Discord: the_python
