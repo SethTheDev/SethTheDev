@@ -1,11 +1,9 @@
 # Hi there 👋
-## I'm Seth, a developer with 3+ years of experience with Java, Python and Javascript.
+## I'm Seth, a fullstack developer with years of experience.
 
-### Languages I know
-- Java (3 years) 
-- Python (>3 years) 
-- Javascript (>2 years)
-- C# (2 years)
-- Rust (<1 year)
+### Languages I'm confident in
+- Java (4 years) 
+- Python (4.5 years) 
+- Javascript & Typescript (2 years)
 
 ## Discord: the_python
